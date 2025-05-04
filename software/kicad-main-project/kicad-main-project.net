@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\hongquan\\Documents\\GitHub\\Project-of-Robot-Electronics-Control\\software\\kicad-main-project\\kicad-main-project.kicad_sch")
-    (date "2025-03-23T00:06:20+0700")
+    (date "2025-04-10T22:45:31+0700")
     (tool "Eeschema 9.0.0")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
