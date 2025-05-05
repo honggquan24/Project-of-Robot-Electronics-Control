@@ -1,8 +1,0 @@
-Info: Reading netlist file 'C:\Users\hongquan\Documents\GitHub\Project-of-Robot-Electronics-Control\software\kicad-main-project\kicad-main-project.net'.
-
-Info: Using reference designators to match symbols and footprints.
-
-Info: Processing symbol 'U1:Espressif:ESP32-DevKitC'.
-
-
-Info: Total warnings: 0, errors: 0.
