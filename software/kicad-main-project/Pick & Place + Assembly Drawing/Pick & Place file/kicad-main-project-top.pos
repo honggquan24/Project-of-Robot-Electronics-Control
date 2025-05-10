@@ -1,0 +1,31 @@
+### Footprint positions - created on 2025-05-10T22:42:57+0700 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                              PosX       PosY       Rot  Side
+BT1       Battery         JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal        198.8100   -84.5620   90.0000  top
+C1        100nF           C_Disc_D3.0mm_W1.6mm_P2.50mm                      81.7880   -84.3280    0.0000  top
+C2        100nF           C_Disc_D3.0mm_W1.6mm_P2.50mm                      83.3120   -98.5520    0.0000  top
+C3        100nF           C_Disc_D3.0mm_W1.6mm_P2.50mm                      92.9640   -74.6760   90.0000  top
+C4        100nF           C_Disc_D3.0mm_W1.6mm_P2.50mm                      84.3280   -91.7140  -90.0000  top
+J1        MOTOR_A         JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal        107.1880  -116.8400    0.0000  top
+J2        MOTOR_B         JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal        198.8100  -109.9620   90.0000  top
+R1        10K             R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical    81.7880   -79.2480    0.0000  top
+R2        10K             R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical    77.7240   -98.5520    0.0000  top
+R3        10K             R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical    82.2960  -106.1720    0.0000  top
+R4        10K             R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical    80.2640   -94.4880   90.0000  top
+SW1       SW_Push         SW_PUSH-12mm                                     108.7120   -81.7880    0.0000  top
+SW2       SW_Push         SW_PUSH-12mm                                      89.1000   -98.0440    0.0000  top
+SW3       SW_Push         SW_PUSH-12mm                                      89.9160   -81.7880    0.0000  top
+SW4       SW_Push         SW_PUSH-12mm                                     108.7120   -98.0440    0.0000  top
+U1        ESP32-DevKitC   ESP32-DevKitC                                    128.0160   -54.8640    0.0000  top
+U2        AMS117-5V       Untitled                                         186.9440   -93.9800   90.0000  top
+U3        TB6612FNG       Untitled                                         171.1960   -91.9480   90.0000  top
+U4        GP2Y0A02YK0F_1  JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal         79.2880  -114.4820    0.0000  top
+U5        GP2Y0A02YK0F_2  JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal        176.8240  -116.0060    0.0000  top
+U6        LCD-I2C         JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal          197.2100   -99.7620   90.0000  top
+U7        K6-FALL-1       JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal         97.7698   -62.9515  -155.0000  top
+U8        AMS117-1.2V     Untitled                                         171.7040   -74.6760    0.0000  top
+U9        K6-FALL-2       JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal        110.2356   -57.0081  -155.0000  top
+U10       K6-FALL-3       JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal        179.7919   -63.5405  155.0000  top
+## End
