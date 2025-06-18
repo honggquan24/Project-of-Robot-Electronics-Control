@@ -1,0 +1,11 @@
+J = 0.0025; % Moment quán tính kg.m^2
+R = 2;      % Điện trở cuộn dây
+L = 0.005;  % Cảm kháng
+Ke = 0.05;  % Hằng số lực điện động
+Kt = 0.05;  % Hằng số moment xoắn
+b = 0.001;  % Ma sát nhớt
+% Phương trình tường ax + by + c = 0
+a = 1;
+b = -1;
+c = 0.5;
+d_threshold = 0.2;
